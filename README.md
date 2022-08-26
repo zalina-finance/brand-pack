@@ -1,1 +1,1 @@
-# logo
+## Logos, icons, and branding.
